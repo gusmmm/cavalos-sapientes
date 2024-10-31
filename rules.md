@@ -1,3 +1,4 @@
 - do not delete any file, package or folder
 - use the SRC directory structure
-- 
+- don't give me any terminal suggestions
+- don't preview or test, only write code
